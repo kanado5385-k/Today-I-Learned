@@ -12,4 +12,4 @@
 
 01.27(월) 깃 기본 개념과 기본 명령어 ([상세 내역 링크](https://creative-asparagus-222.notion.site/01-27-188f102f607d800da490c21a7f0e9bce?pvs=4))
 
-01.28(화) JSON.simple과 자바로 JSON 파일 다루기 ([상세 내역 링크](https://creative-asparagus-222.notion.site/01-28-188f102f607d808e9b01eb30f09d18ae?pvs=4))
+01.28(화) JSON.simple과 자바로 JSON 파일 다루기 ([상세 내역 링크](https://creative-asparagus-222.notion.site/01-28-188f102f607d808e9b01eb30f09d18ae?pvs=4))
