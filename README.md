@@ -17,3 +17,7 @@
 01.28(화) JSON.simple과 자바로 JSON 파일 다루기 ([상세 내역 링크](https://creative-asparagus-222.notion.site/01-28-188f102f607d808e9b01eb30f09d18ae?pvs=4))
 
 01.29(수) git Merge 4가지 방법 (3-way, fast-forward, squash, rebase) ([상세 내역 링크](https://kanado2000.tistory.com/122))
+
+02.02(일) 웹 기초 개념 정리 (HTTP, DOM, Fetch, DB, 인증, REST API 등) ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-02-189f102f607d80e38b4bd706a497fcc1?pvs=4))
+
+---
