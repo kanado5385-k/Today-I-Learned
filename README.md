@@ -21,3 +21,5 @@
 02.02(일) 웹 기초 개념 정리 (HTTP, DOM, Fetch, DB, 인증, REST API 등) ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-02-189f102f607d80e38b4bd706a497fcc1?pvs=4))
 
 ---
+
+02.03(월) 아키텍처 정의 및 4가지 아키텍처 스타일 / 결합도,응집도,확장성 정의 / DevOps 와 CI CD 의 정의와 필요성 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-03-18ff102f607d801d9ee5db3e00fdc739?pvs=4))
