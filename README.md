@@ -25,3 +25,5 @@
 02.03(월) 아키텍처 정의 및 4가지 아키텍처 스타일 / 결합도,응집도,확장성 정의 / DevOps 와 CI CD 의 정의와 필요성 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-03-18ff102f607d801d9ee5db3e00fdc739?pvs=4))
 
 02.04(화) 프로세스와 스레드 차이점과 정의 / 병렬성과 동시성 / Thread Class vs Runnable Interface / 자바 동시성 관리 3가지 방법(Synchronized, AtomicInteger, volatile) ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-04-190f102f607d806ab6b8e616c19b498a?pvs=4))
+
+02.05(수) 동기와 비동기, 블로킹과 논블로킹의 차이점 및 조합 이해하기 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-05-191f102f607d8096ad07ed370170533b?pvs=4))
