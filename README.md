@@ -22,7 +22,7 @@
 
 ---
 
-02.03(월) 아키텍처 정의 및 4가지 아키텍처 스타일 / 결합도,응집도,확장성 정의 / DevOps 와 CI CD 의 정의와 필요성 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-03-18ff102f607d801d9ee5db3e00fdc739?pvs=4))
+02.03(월) 아키텍처 정의 및 4가지 아키텍처 스타일 / DevOps 와 CI CD 의 정의와 필요성 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-03-18ff102f607d801d9ee5db3e00fdc739?pvs=4))
 
 02.04(화) 프로세스와 스레드 차이점과 정의 / 병렬성과 동시성 / Thread Class vs Runnable Interface ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-04-190f102f607d806ab6b8e616c19b498a?pvs=4))
 
